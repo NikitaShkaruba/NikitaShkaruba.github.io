@@ -7,8 +7,4 @@ h2. {{ page.title }}
 
 p(publish_date). 12 Mar 2016
 
-p. Hi, it's my first blog post
-
-!/images/old_spice_success.jpg(Old Spice Success Explained)!
-
-p. Hi, it's my first blog post without any content at all. But it's just a beginning
+p. Hi, it's my first blog post without any content at all. But there are more to come!
