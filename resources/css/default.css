@@ -1,31 +1,31 @@
 body {
-background: #373737;
-color:#e5e5e5;
-font:86% 'lucida grande','lucida sans unicode',Verdana,Tahoma,Arial,sans-serif;
-line-height:1.2em;
-margin:0 auto;
-padding:0;
+	background: #373737;
+	color:#e5e5e5;
+	font:86% 'lucida grande','lucida sans unicode',Verdana,Tahoma,Arial,sans-serif;
+	line-height:1.2em;
+	margin:0 auto;
+	padding:0;
 }
 
 label { margin-left:5px; }
 
 a {
-color:#0383c9;
-font-weight:700;
-text-decoration:none;
+	color:#0383c9;
+	font-weight:700;
+	text-decoration:none;
 }
 
 a:hover {
-text-decoration:underline;
-color: #f5a2c6;
+	text-decoration:underline;
+	color: #f5a2c6;
 }
 
 a img {
-border:0;
+	border:0;
 }
 
 p {
-margin:0 0 18px 0px;
+	margin:0 0 18px 0px;
 }
 
 ul,ol,dl {
@@ -47,20 +47,20 @@ ul.posts li a { font-weight:200;}
 div#post ul li { list-style: circle; }
 
 blockquote {
-border-left:8px solid #0383c9;
-background: #474747;
-font-size:1.0em;
-margin:20px 10px;
-padding:10px;
-padding-left:20px;
+	border-left:8px solid #0383c9;
+	background: #474747;
+	font-size:1.0em;
+	margin:20px 10px;
+	padding:10px;
+	padding-left:20px;
 }
 blockquote span {
-	display: block; 
+	display: block;
 	float: right;
 	padding-right:20px;
 }
 
-pre { 
+pre {
 font-family: Monaco, Courier;
 background: #191919;
 border: dashed 2px #e5e5e5;
@@ -97,7 +97,6 @@ font-size:4.7em;
 letter-spacing:-5px;
 margin:0 0 30px 0px;
 padding:50px 0 0 0;;
-
 }
 
 h1 a {
@@ -110,7 +109,7 @@ h1 a:hover { color:#fba919 ;}
 #logo {
 	margin: -65px 10px -30px -50px;
 	float:right;
-	background: url('/images/gems-15.png');
+	background: url('/resources/images/face.png');
 	height: 213px; width:204px;
 }
 
@@ -141,7 +140,7 @@ a.orange:hover { color:#fba919;  padding:1px; border: solid 2px #fba919; text-de
 /*
 pink #f5a2c6
 light-green #23af4c
-dark-green #2f8b49 
+dark-green #2f8b49
 light-orange #fba919
 dark-orange #e39c1f
 
