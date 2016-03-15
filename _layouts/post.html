@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <div id="header">
@@ -16,6 +17,12 @@ layout: default
     <a href="{{ post.url }}">{{ post.lang }}</a>
 {% endfor %}
 </h3>
+
+{% if post.comments %}
+	<div id="comments">
+		{% include comments.html %}
+	</div>
+{% endif %}
 
 <div id="related">
   <h3>Possibly related posts</h3>
