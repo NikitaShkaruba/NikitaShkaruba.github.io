@@ -5,26 +5,26 @@ layout: post
 lang: en
 ---
 
-It is finally done! I finally made a blog. "But why, Nick?" That's the question for this post.
+It is finally done! I finally made a blog. If I didn't know myself, I would instantly ask: "But why, Nick?" And that's the question for this post.
 
-#### Why do i need a blog:
-  * Structuring information in my head. It's because I waste a lot of time for the posts
-  * Quality learning. It's because i feel a responsible for your time, and i'll try my best
+#### Why do I need a blog:
+  * Structuring information in my head. It's because when you're teaching someone, you learn a lot too.
+  * Quality learning. It's because I feel a responsible for your time, and I'll try my best
   * English and Russian writing practice. I do write a blog in two languages
-  * Potential point in my resume. It's really hard to learn about potential employee only for interview hours, blog will help.
-  * Self-expression, because i am only human, it's my natural need.
-  * Advertising, if i'll maintain quality posts.
+  * Another point in my resume. It's really hard to know potential employee only for interview hours, blog will help.
+  * Self-expression, because I am only human, it's my natural need.
+  * Advertising, if I'll be maintaining quality posts.
 
-#### Things i'll be writing about:
+#### Things I'll be writing about:
   * [code{java}](/code/) Posts about programming languages, their inner structure, their capabilities
-  * [software{linux}](/software/) Posts about system software, which can ease your life, reader
+  * [software{linux}](/software/) Posts about system software, which can ease your life
   * [life{me}](/life/) Posts about my ideology in my early 19 years, my thoughts about the world around
 
 #### Foreword:
-I'll be writing constantly, because right now i have a lot of important things, which i do want to share with the world.
+I'll be writing constantly, because right now I have a lot of important things, which I do want to share with the world.
 I'll be writing every week, at Sunday.
-I'll to post only quality content, and if i'll feel that i am producing crap, i'll stop, i swear.
+I'll to post only quality content, and if I'll feel that I am producing crap, I'll stop, I swear.
 I asked for my secret editor's help for a first time.
 
 My next post will be about my experience with Vim.
-Have a good evening and stay awesome, my reader!
+See you. And stay awesome, my reader!
