@@ -31,7 +31,6 @@ h1 {
 }
 
 p {
-  margin: 1em 0;
 }
 
 a {
@@ -59,7 +58,6 @@ table {
 
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
 }
 
   ul.posts li {

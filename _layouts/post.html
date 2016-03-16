@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id="header">
+<div>
   <h2> {{page.title}} {
     {% for post in site.posts | where:"ref", page.ref %}
       {% if post.lang != page.lang %}
