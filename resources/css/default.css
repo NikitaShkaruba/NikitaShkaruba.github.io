@@ -172,6 +172,8 @@ padding:1px 2px 2px 3px;
 
 h4 {
 color: #23af4c;
+margin-bottom: -5px;
+margin-top: 2px;
 }
 /*** Main wrap and header ***/
 
@@ -308,4 +310,10 @@ background:#fff;
 border:1px solid #bababa;
 margin:6px 18px 2px 5px;
 padding:2px;
+}
+
+.highlighter-rouge {
+	border: 1px solid #000000;
+	border-radius: 15px;
+	padding: 2px 3px;
 }

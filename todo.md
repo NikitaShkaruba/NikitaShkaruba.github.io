@@ -4,8 +4,7 @@ title: One Sigma's blog
 ---
 
 ### TODOs:
-  * Add comments
-  * Add likes, share links
+  * ~~Add comments~~ fix comments, ahaha
   * Optimize interface
   * Optimize design
-  * Finish multilingual support
+  * ~~Finish multilingual support~~
