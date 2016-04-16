@@ -9,3 +9,12 @@ plugins:     ./_plugins
 future:      true
 lsi:         false
 pygments:    false
+
+gems:
+  - jemoji
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

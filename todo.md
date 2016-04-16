@@ -4,7 +4,11 @@ title: One Sigma's blog
 ---
 
 ### TODOs:
-  * ~~Add comments~~ fix comments, ahaha
+  * ~~Add comments~~
+  * ~~Finish multilingual support~~
+  * ~~Fix emoji~~
+  * Add syntax highlighting
   * Optimize interface
   * Optimize design
-  * ~~Finish multilingual support~~
+  * Fix header for firefox browser
+  * Fix possible related posts
