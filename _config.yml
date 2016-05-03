@@ -12,6 +12,7 @@ pygments:    false
 
 gems:
   - jemoji
+  - jekyll-sitemap
 
 markdown: kramdown
 
