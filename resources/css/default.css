@@ -147,8 +147,8 @@ dark-orange #e39c1f
 
 img:not(.emoji) {
 	position: relative;
-	width: 800px;
-	height: 500px;
+	max-width: 800px;
+	max-height: 500px;
 }
 
 h2 {
