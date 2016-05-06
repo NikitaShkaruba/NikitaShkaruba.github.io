@@ -5,4 +5,4 @@ layout: post
 lang: en
 ---
 
-[Try russian one](/code/2016/05/03/базы-данных.md)
+[Try russian one](/code/2016/05/03/базы-данных/)

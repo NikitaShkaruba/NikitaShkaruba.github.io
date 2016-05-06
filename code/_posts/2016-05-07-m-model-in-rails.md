@@ -5,6 +5,8 @@ layout: post
 lang: en
 ---
 
+#### СТАТЬЯ НЕДОПИСАНА!
+
 ### Реализация в Ruby on Rails
 Object-Relational Mapping, commonly referred to as its abbreviation ORM, is a technique that connects the rich objects of an application to tables in a relational database management system. Using ORM, the properties and relationships of the objects in an application can be easily stored and retrieved from a database without writing SQL statements directly and with less overall database access code.
 
